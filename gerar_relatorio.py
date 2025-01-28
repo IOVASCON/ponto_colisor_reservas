@@ -91,3 +91,4 @@ def generate_pdf_report(df, intersection_reserves, intersection_expenses, analis
 
     # Salvar o PDF
     pdf.output("output/relatorio_financeiro.pdf")
+    
